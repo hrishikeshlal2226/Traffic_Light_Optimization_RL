@@ -1,0 +1,29 @@
+Evaluation started at: 2025-04-03 19:40:46.549307
+Number of evaluation runs: 10
+
+
+Evaluation run 1/10
+SUMO initialized successfully
+Evaluation interrupted: mat1 and mat2 shapes cannot be multiplied (1x21 and 50x128)
+Traceback (most recent call last):
+  File "C:\Users\Pushp Raj Choudhary\AppData\Local\Temp\ipykernel_12268\457135131.py", line 64, in evaluate_agent_segment
+    q_values = agent.q_network(state_tensor)
+  File "c:\Users\Pushp Raj Choudhary\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pushp Raj Choudhary\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\Pushp Raj Choudhary\AppData\Local\Temp\ipykernel_12268\670833339.py", line 9, in forward
+    x = torch.relu(self.fc1(x))
+                   ~~~~~~~~^^^
+  File "c:\Users\Pushp Raj Choudhary\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pushp Raj Choudhary\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "c:\Users\Pushp Raj Choudhary\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (1x21 and 50x128)
+
+Evaluation completed at: 2025-04-03 19:40:47.446344

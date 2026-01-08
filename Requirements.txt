@@ -1,0 +1,20 @@
+Required Libraries: 
+numpy
+matplotlib
+traci
+torch
+collections
+
+Required GUI Interface:
+SUMO : https://eclipse.dev/sumo/
+You don't need to download it to run the code , you can visualize the traffic flow directly from here.
+
+Required Input files:
+The file which is needed is osm.sumocfg which has all the config. parameters.
+Other files available in the SUMO files' folder have been altered.
+
+You are required to keep all the sumo files together and the file path for osm.sumocfg should be changed at required places.
+
+The model and results files were saved during the implementation of code, so it will be generated again if we run the code, so no need to keep those. 
+
+EDA files have no use in the final model, but have been added to get a view of the data extracted initially.

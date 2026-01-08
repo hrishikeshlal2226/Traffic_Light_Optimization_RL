@@ -1,0 +1,101 @@
+Training segment from episode 0 to 10
+Started at: 2025-04-03 19:40:42.085112
+
+
+Episode 1/10
+SUMO initialized successfully
+Traffic lights: ('cluster_10279701148_11630151856_663826006', 'cluster_11502623497_1177160337', 'cluster_664446535_8507351666')
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Action failed, skipping step
+Training interrupted: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (32,) + inhomogeneous part.
+Traceback (most recent call last):
+  File "C:\Users\Pushp Raj Choudhary\AppData\Local\Temp\ipykernel_12268\105587629.py", line 130, in train_agent_segment
+    loss = agent.train()
+  File "C:\Users\Pushp Raj Choudhary\AppData\Local\Temp\ipykernel_12268\2868734602.py", line 60, in train
+    states = torch.FloatTensor(np.array(states))
+                               ~~~~~~~~^^^^^^^^
+ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (32,) + inhomogeneous part.
+
+Segment completed at: 2025-04-03 19:40:44.980827

@@ -1,0 +1,238 @@
+Starting at: 2025-04-03_19-40-23
+Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+PyTorch version: 2.6.0+cpu
+Starting traffic light optimization with RL...
+Loading combined data...
+Data loaded successfully with 1538868 records
+
+==================================================
+Starting training segment 1/10
+Episodes 0 to 9
+==================================================
+
+Training segment from episode 0 to 10
+Starting episode 1/10
+Initializing SUMO environment...
+SUMO environment initialized successfully
+Episode 1, Step 0/3700
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Episode 1, Step 100/3700
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in take_action: 'TrafficLightDomain' object has no attribute 'getPhaseCount'
+Action failed, skipping step
+Error in calculate_reward: 'Lane_Group'
+Training interrupted: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (32,) + inhomogeneous part.
+
+Evaluating agent after segment completion...
+Starting evaluation...
+Evaluation run 1/5
+Initializing SUMO environment...
+SUMO environment initialized successfully
+Evaluation run 1, Step 0/3700
+Evaluation interrupted: mat1 and mat2 shapes cannot be multiplied (1x21 and 50x128)
+
+Error during training: cannot access local variable 'avg_waiting_time' where it is not associated with a value
+You can resume later from the latest checkpoint.
+
+Performing final evaluation...
+Starting evaluation...
+Evaluation run 1/10
+Initializing SUMO environment...
+SUMO environment initialized successfully
+Evaluation run 1, Step 0/3700
+Evaluation interrupted: mat1 and mat2 shapes cannot be multiplied (1x21 and 50x128)

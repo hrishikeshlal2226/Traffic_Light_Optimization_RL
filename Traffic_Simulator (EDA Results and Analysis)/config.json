@@ -1,0 +1,15 @@
+{
+    "sumocfg_path": "C:/Users/Pushp Raj Choudhary/2025-03-14-16-24-53/osm.sumocfg",
+    "total_episodes": 100,
+    "episodes_per_segment": 10,
+    "max_steps_per_episode": 3700,
+    "checkpoint_interval": 2,
+    "learning_rate": 0.001,
+    "gamma": 0.95,
+    "epsilon_start": 1.0,
+    "epsilon_decay": 0.995,
+    "epsilon_min": 0.01,
+    "buffer_size": 10000,
+    "batch_size": 32,
+    "evaluation_runs": 5
+}
