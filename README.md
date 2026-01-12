@@ -61,4 +61,4 @@ The project creates a DQN agent that learns to interact with the traffic environ
 The simulation runs iteratively, where the agent gathers experience (State, Action, Reward, Next State) to train the neural network, gradually improving its traffic control policy.
 
 ## Author
-**Pushp Raj Choudhary**
+**Hrishikesh Lal Baishya**
